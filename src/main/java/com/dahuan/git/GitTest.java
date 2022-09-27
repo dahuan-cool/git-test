@@ -8,6 +8,6 @@ public class GitTest {
         System.out.println("hello,hello,hello,cold-fix");
         System.out.println("hello,hello,hello,hot-fix");
         System.out.println("hello,hello,push,hot-fix");
-
+        System.out.println("hello,hello,pull,hot-fix");
     }
 }
